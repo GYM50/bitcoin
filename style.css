@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+  
+    text-decoration: none;
+
+}
+header{
+    background: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.navdiv{
+    display: flex;
+    height: 50px;
+    align-items: center;
+   
+    
+}
+.box1 a{
+    color: aliceblue;
+
+}
+nav{
+    margin: auto;
+    margin-right: 600px;
+   
+
+}
+
+
+.logo{
+    color: aliceblue;
+}
+
+nav a{
+    color: aliceblue;
+}
+
+
+.kon {
+ color: aliceblue;
+ margin-top: 100px;
+ height: 600px;
+
+
+  
+
+
+}
+img{
+    margin-left: 150px;
+}
+button{
+    width: 150px;
+    height: 50px;font-size: 15px;
+    background: black;
+    color: aliceblue;
+    border: 2px solid wheat;
+    position: relative;
+    top: 200px;
+    left: 500px;
+}
+.img img{
+    position: relative;
+    bottom: 600px;
+    left: 700px;
+
+
+
+
+}
+
+
+
+
+
